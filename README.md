@@ -1,16 +1,17 @@
-# myapp
+Um Projeto para medir a Bitola
 
-A new Flutter project.
+![Captura de tela 2025-05-21 151222](https://github.com/user-attachments/assets/899d2dd9-177d-4fc7-92bd-82f7715e6b03)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Captura de tela 2025-05-21 151227](https://github.com/user-attachments/assets/1ba7d418-cb58-4ec6-a24b-a174ff4e4f6d)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Feito no: Firebase studio
+Usando Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. De fork
+2. Clique no botao direito dentro da pasta
+3. "Abrir Terminal"
+4. Code .
+5. E Execute
+
